@@ -87,6 +87,7 @@ namespace Т6.П8
             //    {
             //        Console.Write(i + " ");
             //    }
+            //}
 
 
             //Здание 4
